@@ -1,0 +1,4 @@
+interface:
+  display_name: "survey_bluewrite"
+  short_description: "根据结构和文献安排段落论证，再写成有证据、能比较、读得懂的中文正文"
+  default_prompt: "请使用 $survey_bluewrite，根据我提供的结构和文献设计段落蓝图，说明各节问题、比较依据、证据与推进关系，先不写正文。"

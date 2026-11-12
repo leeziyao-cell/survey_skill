@@ -1,0 +1,4 @@
+interface:
+  display_name: "Survey 章节结构设计"
+  short_description: "依据全文目标与文献证据，判断章节职责、组织主轴、目录层级和分类边界"
+  default_prompt: "请使用 $design-survey-chapter，依据全文目标与文献证据评估当前章节结构，说明需要保留或调整什么，以及判断依据。"
